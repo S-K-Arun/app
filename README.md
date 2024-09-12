@@ -82,11 +82,30 @@ The application uses the following API to get posts data:
 
 If you have any questions or need further assistance, please reach out.
 
-### ScreenSchots
+Here are some screenshots of the application:
 
-[Login Screenshot](public/screenshots/login.png)
-![Table Screenshot](public/screenshots/table.png)
-![Filter Table Screenshot](public/screenshots/filterTable.png)
+- **Login Page**
 
-![Login Screenshot](public/screenshots/mobil-table.png)
-![Table Screenshot](public/screenshots/mobile-login.png)
+  ![Login Screenshot](public/screenshots/login.png)
+
+- **Table View**
+
+  ![Table Screenshot](public/screenshots/table.png)
+
+- **Filtered Table**
+
+  ![Filter Table Screenshot](public/screenshots/filterTable.png)
+
+- **Mobile View of Table**
+
+  ![Mobile Table Screenshot](public/screenshots/mobile-table.png)
+
+- **Mobile View of Login**
+
+  ![Mobile Login Screenshot](public/screenshots/mobile-login.png)
+
+## Notes
+
+- Ensure that Vuetify and Vuex are properly installed and configured in the project.
+- Validate email input and handle form submission using Vue methods.
+- For sorting and pagination, utilize Vuetify components and their features.
