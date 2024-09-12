@@ -84,7 +84,7 @@ If you have any questions or need further assistance, please reach out.
 
 ### ScreenSchots
 
-![Login Screenshot](public/screenshots/login.png)
+[Login Screenshot](public/screenshots/login.png)
 ![Table Screenshot](public/screenshots/table.png)
 ![Filter Table Screenshot](public/screenshots/filterTable.png)
 
